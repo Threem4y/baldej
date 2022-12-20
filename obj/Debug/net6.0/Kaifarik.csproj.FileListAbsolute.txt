@@ -1,0 +1,15 @@
+D:\VS проекты\Kaifarik\bin\Debug\net6.0\Kaifarik.exe
+D:\VS проекты\Kaifarik\bin\Debug\net6.0\Kaifarik.deps.json
+D:\VS проекты\Kaifarik\bin\Debug\net6.0\Kaifarik.runtimeconfig.json
+D:\VS проекты\Kaifarik\bin\Debug\net6.0\Kaifarik.dll
+D:\VS проекты\Kaifarik\bin\Debug\net6.0\Kaifarik.pdb
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.csproj.AssemblyReference.cache
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.AssemblyInfoInputs.cache
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.AssemblyInfo.cs
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.csproj.CoreCompileInputs.cache
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.dll
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\refint\Kaifarik.dll
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.pdb
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\Kaifarik.genruntimeconfig.cache
+D:\VS проекты\Kaifarik\obj\Debug\net6.0\ref\Kaifarik.dll
